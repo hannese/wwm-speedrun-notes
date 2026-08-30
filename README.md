@@ -35,14 +35,14 @@ A buff only boosts the type it names. Multiply by that type's share.
 |**Attribute damage**|**\~0.35**|Attribute share|
 |**Qi damage**|**\~0.1 direct**|Drives breaks — real value is unlocking exhaustion, not raw damage|
 
-*Split measured at 62.7% / 37.3% on a Bellstrike build.*
+*Split measured at 62.7% / 37.3% on a Bellstrike Splendor build.*
 
 ## Team-wide providers
 
 |Path|What it does|Type|Zone|Est. team DMG|
 |-|-|-|-|-|
 |**Any (Bitter Seasons T6)**|−10 Phys Resistance, −6% Defense|Physical|**Pen**|**\~+3.2%, undiluted**|
-|**Bamboocut Dust**|Phantom Chime: −2 Phys Res ×5 · Soulbreak: +5% Qi taken|Physical + Qi|**Pen** / Additive|\~+3.2% undiluted, + break speed|
+|**Bamboocut Dust**|Phantom Chime: −10 Phys Resistance · Soulbreak: +5% Qi taken|Physical + Qi|**Pen** / Additive|\~+3.2% undiluted, + break speed|
 |**Bellstrike Splendor**|Qi Imbalance +10% Qi · exhausted +8% HP, +8% Bellstrike|HP + Qi|Additive|+8% → possibly undiluted now|
 |**Bellstrike Umbra**|Sweep All: −5% defense · Soul-Shaken: +5% DoT|Physical / DoT|Base / ?|\~+0.4% + DoT|
 |**Silkbind Deluge**|+24% team damage, 12s/30s · Pale Petal: boss exhaust 10s → 12s|All|Additive|+24% → **diluted**, \~40% uptime|
