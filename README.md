@@ -60,24 +60,19 @@ valued on **how much they accelerate breaks**, not on their damage number. Pale
 Petal extending exhaust 10s → 12s is a 20% longer damage window — likely worth more
 than its "no damage bonus" tooltip implies.
 
-## Four rules
+## Notes
 
-**% bonuses dilute, resistance shred doesn't.** See the table at the top. This is
+* **% bonuses dilute, resistance shred doesn't.** See the table at the top. This is
 the single biggest factor in ranking these.
 
-**Resistance shred ≫ defense shred.** −10 resistance ≈ +5% damage. −6% defense ≈
+* **Resistance shred ≫ defense shred.** −10 resistance ≈ +5% damage. −6% defense ≈
 +0.8%. A "reduce defense by X%" tooltip is usually near-worthless.
 
-**Same-type resistance shreds stack near-additively.** Bitter Seasons + Phantom
+* **Same-type resistance shreds stack near-additively.** Bitter Seasons + Phantom
 Chime = −20 physical res. Gain is `N / (200 + pen)`, so at pen 33.7 the first −10
 gives +4.28% and the second gives +4.10% — technically diminishing, practically
 additive. **−20 res ≈ +8.6% physical, undiluted**, which beats any single % damage
 debuff in this table once dilution is accounted for.
-
-**Bitter Seasons stack cliff.** Stacks 1–4 add \~0.1% each. All the value lands at
-**stack 5** when the resistance shred triggers.
-
-## Notes
 
 * **HP vs Qi ≈ 10:1** by developer valuation, from Divinecraft upgrade costs (both
 upgrades cost 3 base: Fire→Cinder Ash adds +4% Qi, Poison→Viper's Fire adds +0.4%
