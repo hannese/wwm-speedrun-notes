@@ -41,7 +41,7 @@ A buff only boosts the type it names. Multiply by that type's share.
 
 |Path|What it does|Type|Zone|Est. team DMG|
 |-|-|-|-|-|
-|**Any (Bitter Seasons T6)**|−10 Phys Resistance, −6% Defense|Physical|**Pen** ✅|**\~+3.2%, undiluted** ✅|
+|**Any (Bitter Seasons T6)**|−10 Phys Resistance, −6% Defense|Physical|**Pen**|**\~+3.2%, undiluted**|
 |**Bamboocut Dust**|Phantom Chime: −2 Phys Res ×5 · Soulbreak: +5% Qi taken|Physical + Qi|**Pen** / Additive|\~+3.2% undiluted, + break speed|
 |**Bellstrike Splendor**|Qi Imbalance +10% Qi · exhausted +8% HP, +8% Bellstrike|HP + Qi|Additive|+8% → possibly undiluted now|
 |**Bellstrike Umbra**|Sweep All: −5% defense · Soul-Shaken: +5% DoT|Physical / DoT|Base / ?|\~+0.4% + DoT|
