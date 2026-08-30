@@ -42,10 +42,10 @@ A buff only boosts the type it names. Multiply by that type's share.
 |Path|What it does|Type|Zone|Est. team DMG|
 |-|-|-|-|-|
 |**Any (Bitter Seasons T6)**|−10 Phys Resistance, −6% Defense|Physical|**Pen**|**\~+3.2%, undiluted**|
-|**Bamboocut Dust**|−10 Phys Resistance · +5% Qi taken|Physical + Qi|**Pen** / Additive|\~+3.2% undiluted, + break speed|
-|**Bellstrike Splendor**|+10% Qi · Exhausted +8% HP, +8% Bellstrike|HP + Qi|Additive|+8% → possibly undiluted now|
-|**Bellstrike Umbra**|−5% Defense · Soul-Shaken: +5% DoT|Physical / DoT|Base / ?|\~+0.4% + DoT|
-|**Silkbind Deluge**|+24% Team Damage, 12s/30s · Boss exhaust 10s → 12s|All|Additive|+24% → **diluted**, \~40% uptime|
+|**Bamboocut Dust**|−10 Phys Resistance, +5% Qi Taken|Physical + Qi|**Pen** / Additive|\~+3.2% undiluted, + break speed|
+|**Bellstrike Splendor**|+10% Qi, Exhausted +8% HP, +8% Bellstrike|HP + Qi|Additive|+8% → possibly undiluted now|
+|**Bellstrike Umbra**|−5% Defense, +5% DoT|Physical / DoT|Base / ?|\~+0.4% + DoT|
+|**Silkbind Deluge**|+24% Team Damage, 12s/30s, Boss exhaust 10s → 12s|All|Additive|+24% → **diluted**, \~40% uptime|
 |**Stonesplit Might**|+8% HP \& Qi taken|HP + Qi|Additive|+8% → **diluted**|
 |**Stonesplit Strength**|−16 All Attribute Resistance|Attribute|**Pen**|\~+3.0%, undiluted|
 
