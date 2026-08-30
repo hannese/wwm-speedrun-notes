@@ -1,6 +1,6 @@
 # Where Winds Meet — Team-Wide Buffs \& Debuffs (PvE Speedrun)
 
-**Patch:** `\[Global Version 2.1]` · **Updated:** `\[2026-08-30]`
+**Patch:** Global Version 2.1 · **Updated:** 2026-08-30
 
 ## The most important rule: two kinds of buff
 
