@@ -42,6 +42,7 @@ A buff only boosts the type it names. Multiply by that type's share.
 |Path|What it does|Type|Zone|Est. team DMG|
 |-|-|-|-|-|
 |**Any (Bitter Seasons T6)**|−10 Phys Resistance, −6% Defense|Physical|Pen|\~+3.2%, undiluted|
+|**Bamboocut Draught**|2% damage taken, all types|All|Additive|+2% → diluted, \~+1.0–1.3%|
 |**Bamboocut Dust**|−10 Phys Resistance, +5% Qi|Physical + Qi|Pen / Additive|\~+3.2% undiluted, + break speed|
 |**Bellstrike Splendor**|+10% Qi, Exhausted +8% HP, +8% Bellstrike|HP + Qi|Additive|+8% → possibly undiluted now|
 |**Bellstrike Umbra**|−5% Defense, +5% DoT|Physical / DoT|Base / ?|\~+0.4% + DoT|
@@ -64,25 +65,26 @@ than its "no damage bonus" tooltip implies.
 
 * **% bonuses dilute, resistance shred doesn't.** See the table at the top. This is
 the single biggest factor in ranking these.
-
 * **Resistance shred ≫ defense shred.** −10 resistance ≈ +5% damage. −6% defense ≈
 +0.8%. A "reduce defense by X%" tooltip is usually near-worthless.
-
 * **Same-type resistance shreds stack near-additively.** Bitter Seasons + Phantom
 Chime = −20 physical res. Gain is `N / (200 + pen)`, so at pen 33.7 the first −10
 gives +4.28% and the second gives +4.10% — technically diminishing, practically
 additive. **−20 res ≈ +8.6% physical, undiluted**, which beats any single % damage
 debuff in this table once dilution is accounted for.
-
 * **HP vs Qi ≈ 10:1** by developer valuation, from Divinecraft upgrade costs (both
 upgrades cost 3 base: Fire→Cinder Ash adds +4% Qi, Poison→Viper's Fire adds +0.4%
 HP; at 10:1 all four items land on two clean values). This undervalues Qi for
 speedruns, where breaks gate damage windows.
+* **Strayhunt (Bamboocut Draught)** is one of only two all-types effects in the
+table. Small headline number, but it applies to 100% of damage instead of a share,
+so it lands near +1% at typical bonus pools — comparable to a DoT or defense-shred
+effect rather than to the resistance shreds. Zone assumed additive (unverified).
 * **Patch note:** the Exhausted universal vulnerability and Qi Imbalance's bonus
 vulnerability were moved into the Mechanism-Based DMG Boost zone "to mitigate
 diminishing returns caused by multiplier dilution." That likely makes them
 **stronger** (they no longer dilute in the general pool). Heavenquaker's
-Soul-Shaken was split into base + applier-only portions. 
+Soul-Shaken was split into base + applier-only portions.
 
 ## Sources
 
